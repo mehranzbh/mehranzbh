@@ -7,8 +7,8 @@ https://github.com/mehranzbh/Portfolio/wiki
 
 - 📫 You can reach me via my LinkedIn account: https://www.linkedin.com/in/mehranzabihi/
 
-Cheers,
-Mehran.
+- Cheers,
+- Mehran.
 
 <!---
 mehranzbh/mehranzbh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
