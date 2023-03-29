@@ -2,7 +2,13 @@
 - 👀 I am always seeking new opportunities and challenges to apply my expertise in different fields with different teams.
 -  My LinkedIn account link is : https://www.linkedin.com/in/mehranzabihi/
 - 🌱 My favorite project management styles are Agile frameworks (Scrum, Kanban, Scaled Agile Framework SAFe) and the fields that I am interested in are ERP systems and Software Developpment.
-- 📫 You can reach me via my LinkedIn account.
+- 🌱 I am interested Coding, Database (Relational and NoSQL), Web Services and Cloud Computing. You can see some of my work examples in my portfolio:
+https://github.com/mehranzbh/Portfolio/wiki
+
+- 📫 You can reach me via my LinkedIn account: https://www.linkedin.com/in/mehranzabihi/
+
+Cheers,
+Mehran.
 
 <!---
 mehranzbh/mehranzbh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
