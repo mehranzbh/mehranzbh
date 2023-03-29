@@ -1,9 +1,7 @@
-- 👋 Hi, I’m Mehran, I am an Analyst with a deep knowledge in coding and object oriented programming. 
-- I am looking for opportunities to fill the gap between business and technical side.
+- 👋 Hi, I’m Mehran, I am Technical Project Manager with a hands-on knowledge in coding and other technical cool stuff. 
+- 👀 I am always seeking new opportunities and challenges to apply my expertise in different fields with different teams.
 -  My LinkedIn account link is : https://www.linkedin.com/in/mehranzabihi/
-- 👀 I’m interested in Agile frameworks (Scrum, Kanban, Scaled Agile Framework SAFe) and Software Development Life Cycle (SDLC).
-- 🌱 
-- 💞️ I’m looking to collaborate as a Analyst / JIRA Developer / Software Developer.
+- 🌱 My favorite project management styles are Agile frameworks (Scrum, Kanban, Scaled Agile Framework SAFe) and ERP systems and Software Developpment are the fields that I am interested in.
 - 📫 You can reach me via my LinkedIn account.
 
 <!---
