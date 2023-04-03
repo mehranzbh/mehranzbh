@@ -5,7 +5,7 @@
 - 🌱 My favorite project management styles are Agile frameworks (Scrum, Kanban, Scaled Agile Framework SAFe) and the fields that I am interested in are ERP systems and Software Developpment.
 - 🌱 I am interested Coding, Database (Relational and NoSQL), Web Services and Cloud Computing. You can see some of my work examples in my portfolio:
 - https://github.com/mehranzbh/Portfolio/wiki
-- https://github.com/mehranzbh/Portfolio
+- https://github.com/mehranzbh/Portfolio (my public repository)
 
 - 📫 You can reach me via my LinkedIn account: https://www.linkedin.com/in/mehranzabihi/
 
