@@ -1,8 +1,9 @@
 - 👋 Hi, I’m Mehran, 
 - I am a Technical Project Manager. 
-- 👀 I enjoy new challenges to apply my expertise in different fields with different teams.
+- 👀 I enjoy new challenges to apply my expertise in different IT fields with different teams.
 
-- 🌱 I am interested working with people and solving complex problems. My technnical expertise are Cloud Computing, Database (Relational and NoSQL), integrations, Solution Design, Monitoring and Logging, IaC (Infra as Code). You can see some of my work examples in my portfolio:
+- 🌱 I am specifically interested in working with people and solving complex problems.
+- My technnical expertise are Cloud Computing, Database (Relational and NoSQL), integrations, Solution Design, Monitoring and Logging, IaC (Infra as Code). You can check out some of my work examples in my portfolio:
 - https://github.com/mehranzbh/Portfolio (my public repository)
 
 - 📫 My LinkedIn account is: https://www.linkedin.com/in/mehranzabihi/
