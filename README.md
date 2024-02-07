@@ -5,8 +5,10 @@
 
 - 🌱 I am specifically interested in working with people and solving complex problems.
 - My technnical expertise are Cloud Computing, Database (Relational and NoSQL), Integrations, Solution Design, Monitoring and Logging, IaC (Infra as Code). You can check out some of my work examples in my portfolio:
-- https://github.com/mehranzbh/Portfolio (my public repository)
-
+  <br>
+  <br>
+  https://github.com/mehranzbh/Portfolio
+  <br>
 - 📫 My LinkedIn account is: https://www.linkedin.com/in/mehranzabihi/
 <br>
 Cheers,
