@@ -1,4 +1,5 @@
-- 👋 Hi, I’m Mehran, 
+👋 Hi, I’m Mehran,  
+<br>
 - I am a Technical Project Manager. 
 - 👀 I enjoy new challenges to apply my expertise in different IT fields with different teams.
 
@@ -7,9 +8,10 @@
 - https://github.com/mehranzbh/Portfolio (my public repository)
 
 - 📫 My LinkedIn account is: https://www.linkedin.com/in/mehranzabihi/
-
-- Cheers,
-- Mehran.
+<br>
+Cheers,
+<br> 
+Mehran.
 
 <!---
 mehranzbh/mehranzbh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
