@@ -1,7 +1,7 @@
 👋 Hi, I’m Mehran,  
 <br>
 - I am a Technical Project Manager. 
-- 
+  
 - 🌱 I am specifically interested in working with people and solving complex problems.
 - My technnical expertise are Cloud Computing, Database (Relational and NoSQL), Integrations, Solution Design, Monitoring and Logging, IaC (Infra as Code). You can check out some of my work examples in my portfolio:
   <br>
